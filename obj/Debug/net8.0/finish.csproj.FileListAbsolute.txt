@@ -1,0 +1,14 @@
+C:\Users\Suri\Desktop\C#\finish\bin\Debug\net8.0\finish.exe
+C:\Users\Suri\Desktop\C#\finish\bin\Debug\net8.0\finish.deps.json
+C:\Users\Suri\Desktop\C#\finish\bin\Debug\net8.0\finish.runtimeconfig.json
+C:\Users\Suri\Desktop\C#\finish\bin\Debug\net8.0\finish.dll
+C:\Users\Suri\Desktop\C#\finish\bin\Debug\net8.0\finish.pdb
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.AssemblyInfoInputs.cache
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.AssemblyInfo.cs
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.csproj.CoreCompileInputs.cache
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.dll
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\refint\finish.dll
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.pdb
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\finish.genruntimeconfig.cache
+C:\Users\Suri\Desktop\C#\finish\obj\Debug\net8.0\ref\finish.dll
